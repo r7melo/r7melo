@@ -1,0 +1,15 @@
+/* simple "from > to" */
+@keyframes move {
+  from {
+      left: 5%;
+  }
+  to {
+      left: 85%;
+  }
+}
+
+
+/* assign animation to ball element */
+.ball {
+  animation: 1s move;
+}
