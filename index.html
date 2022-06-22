@@ -1,36 +1,45 @@
-<div class="ball"></div>
-<style>
-/* simple "from > to" */
-@keyframes move {
-  from {
-      left: 5%;
-  }
-  to {
-      left: 85%;
-  }
-}
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <title>Romario Melo</title>
+    <meta charset="utf-8">
+  </head>
+  <body>
+    <div class="ball"></div>
+    <style>
+        /* simple "from > to" */
+        @keyframes move {
+        from {
+            left: 5%;
+        }
+        to {
+            left: 85%;
+        }
+        }
 
-/* assign animation to ball element */
-.ball {
-  animation: 1s move;
-}
+        /* assign animation to ball element */
+        .ball {
+        animation: 1s move;
+        }
 
-/* base styles */
+        /* base styles */
 
-body {
-  text-align: center;
-  background: #fafafa;
-  position: relative;
-}
+        body {
+        text-align: center;
+        background: #fafafa;
+        position: relative;
+        }
 
-.ball {
-  width: 10%;
-  padding-bottom: 10%;
-  border-radius: 50%;
-  background: #2098d1;
-  box-shadow: -3px 5px 0px rgba(0,0,0,0.2);
-  position: absolute;
-  top: 100px;
-  left: 5%;
-}
-</style>
+        .ball {
+        width: 10%;
+        padding-bottom: 10%;
+        border-radius: 50%;
+        background: #2098d1;
+        box-shadow: -3px 5px 0px rgba(0,0,0,0.2);
+        position: absolute;
+        top: 100px;
+        left: 5%;
+        }
+    </style>
+  </body>
+</html>
