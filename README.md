@@ -1,3 +1,3 @@
 ### Romario Melo
 
-[@preview]([URL](https://r7melo.github.io/r7melo/))
+![Snake animation](https://github.com/seu-usuário-aqui/seu-usuário-aqui/blob/output/github-contribution-grid-snake.svg)
