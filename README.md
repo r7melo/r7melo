@@ -1,3 +1,6 @@
+# [Flet-DataTable-Page](https://github.com/r7melo/Flet-DataTable-Page)
+![](https://github.com/r7melo/Flet-DataTable-Page/blob/main/exemplo-gif.gif)
+
 # [Flet-Login-Page](https://github.com/r7melo/Flet-Login-Page)
 ![](https://github.com/r7melo/Flet-Login-Page/blob/main/exemplo-gif.gif)
 
