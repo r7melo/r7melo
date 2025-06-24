@@ -9,7 +9,7 @@ Scripts, automations, and small projects to fix everyday issues with clean, prac
 
 | Problem                | Language  | Link                          |
 |------------------------|-----------|-------------------------------|
-| Forca Minimal | C      | [View solution](./problems/forca-minimal) |
-| Template      | Python | [View solution](./problems/new-projeto)   |
+| Forca Minimal | C      | [View solution](https://github.com/r7melo/solution404/tree/main/problems/forca-minimal) |
+| Template      | Python | [View solution](https://github.com/r7melo/solution404/tree/main/problems/new-problem)   |
 
 ---
