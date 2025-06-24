@@ -9,7 +9,7 @@ Scripts, automations, and small projects to fix everyday issues with clean, prac
 
 | Problem                | Language  | Link                          |
 |------------------------|-----------|-------------------------------|
-| Batch Image Resizer | Python    | [View solution](./image-resizer) |
-| Example Problem 2   | JavaScript| [View solution](./example-problem-2) |
+| Forca Minimal | C      | [View solution](./problems/forca-minimal) |
+| Template      | Python | [View solution](./problems/new-projeto)   |
 
 ---
