@@ -15,28 +15,24 @@ Este é meu pequeno espaço — minha vitrine de ideias. Fique à vontade para e
 > Imagem gerada a partir da recriação do algoritmo descrito na  
 > [tese de doutorado de Colombo](https://www.teses.usp.br/teses/disponiveis/3/3140/tde-07032017-144709/publico/FabioBelottiColomboCorr17.pdf).
 
-<img width="400" height="200" alt="Mode vetrine" src="https://github.com/user-attachments/assets/1ab59027-7cb1-43d8-bf77-72099e4ec165"/>
 
 ---
 
 ### Algoritmo CYK
 [Repositório](https://github.com/r7melo/algoritmo-cyk)
 
-![cyk](https://github.com/user-attachments/assets/3a504834-8aa0-4ff9-b4a7-2aaee47f2813)
 
 ---
 
 ### Estudo de Autômatos
 [Repositório](https://github.com/r7melo/minimizacao-de-automato-finito)
 
-![automatos](https://github.com/user-attachments/assets/2c7b76ec-7e88-442d-a486-ec3499ee5ea7)
 
 ---
 
 ### Análise de acidentes da base de dados do RENASEST
 [Notebook](https://github.com/r7melo/Detran-RENASEST/blob/main/Analisando%20Acidentes%20-%20Apresenta%C3%A7%C3%A3o.ipynb)
 
-![cddados](https://github.com/user-attachments/assets/92434cff-a1d8-4773-bb10-54a1a8a338c4)
 
 ---
 
